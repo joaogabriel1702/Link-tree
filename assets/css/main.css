@@ -486,7 +486,7 @@ a {
 
 /* Wide */
 
-@media screen and (max-width: 1920px) {
+@media screen and (max-width: 100vw) {
   /* Basic */
 
   body,
